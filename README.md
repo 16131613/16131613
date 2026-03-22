@@ -35,5 +35,23 @@
 
 ---
 
+🚀 Frontend
+
+HTML ███████████████░░ 90%
+CSS ██████████████░░░ 85%
+JavaScript █████████████░░░░ 80%
+React ███████████░░░░░░ 80%
+
+⚙️ Backend
+
+Node.js █████████░░░░░░░░ 60%
+Firebase ███████████░░░░░░ 70%
+
+🛠 Tools
+
+Git ███████████░░░░░░ 70%
+
+---
+
 ## ⚡ Fun Fact
 I turn ideas into interactive experiences 🚀
